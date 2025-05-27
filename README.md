@@ -7,5 +7,5 @@
 - 🌱🍎🐱
 
  <div>
-    <img align="center"  height="200" width="200" src="https://www.reddit.com/r/milesprower/comments/15ah86h/a_small_collection_of_gifs_of_tails_from_perhaps/?tl=pt-br">
+    <img align="center"  height="200" width="200" src="https://img1.picmix.com/output/stamp/thumb/6/6/3/0/1660366_727c5.gif">
  </div>
